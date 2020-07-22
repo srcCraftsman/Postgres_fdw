@@ -69,7 +69,7 @@
     CREATE EXTENSION postgres_fdw;
 
     CREATE EXTENSION tds_fdw;
-
+```
 
 
  - The list of all possible wrapper extensions you can find [here](https://wiki.postgresql.org/wiki/Foreign_data_wrappers)
